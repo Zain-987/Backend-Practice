@@ -1,0 +1,8 @@
+node_modules
+build
+dist
+*.min.js
+.env
+env
+.env.sample
+env.sample
